@@ -1,2 +1,11 @@
 # IST-AMS
-IST - Systems Analysis and Modeling 2016/2017
+
+2016/2017 Systems Analysis and Modeling (AMS) course from the 3rd year of the Computer Science and Engineering (LEIC-A) programme @ Instituto Superior Técnico (IST)
+
+[IST](https://tecnico.ulisboa.pt/en/)
+
+[LEIC-A](https://fenix.tecnico.ulisboa.pt/cursos/leic-a)
+
+[AMS](https://fenix.tecnico.ulisboa.pt/disciplinas/AMS111326/2016-2017/2-semestre)
+
+Projects Grade - 13.33/20 (10.8, 10.7 and 15.9 respectively)
