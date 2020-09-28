@@ -8,4 +8,4 @@
 
 [AMS](https://fenix.tecnico.ulisboa.pt/disciplinas/AMS111326/2016-2017/2-semestre)
 
-Projects Grade - 13.33/20 (10.8, 10.7 and 15.9 respectively)
+Project Grade - 13.33/20 (10.8, 10.7 and 15.9 respectively)
